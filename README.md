@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x505CB26904B17ba8A5507E0134c294D78a3e032C
 ```
 
 ## Steps
@@ -15,11 +15,11 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-perc20-mint-token.git
+git clone https://github.com/retrunv0id/swisstronik-PERC-20.git
 ```
 
 ```
-cd swisstronik-perc20-mint-token
+cd swisstronik-PERC-20
 ```
 
 ### 2. Install Dependency
@@ -73,10 +73,3 @@ npm run transfer
 - Open the tx-hash.txt (location in utils folder)
 - Copy the address and paste the tx hash link into testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
-
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
-
-0xCd825ae0335190f4c8882DF16FB0577d478b3898
